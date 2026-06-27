@@ -72,26 +72,41 @@
     
 // }
 
-let day = 9;
+// let day = 9;
 
-switch(day){
-    case 1:
-    console.log("Monday");
-    break;
-    case 2:
-    console.log("Tuesday");
-    break;
-    case 3:
-    console.log("Wendsday");
-    break;
-    case 4:
-    console.log("Thursday");
-    break;
-    default:
-        console.log("Invalid Day");
+// switch(day){
+//     case 1:
+//     console.log("Monday");
+//     break;
+//     case 2:
+//     console.log("Tuesday");
+//     break;
+//     case 3:
+//     console.log("Wendsday");
+//     break;
+//     case 4:
+//     console.log("Thursday");
+//     break;
+//     default:
+//         console.log("Invalid Day");
         
+// }
+
+// for loop
+
+// for(let i = 0; i < 10 ; i++){
+//     console.log(i);
+    
+// }
+
+// functions    
+
+function add(x , y){
+    return x + y ;
 }
 
+let result = add(10 ,220);
+console.log(result);
 
 
 
