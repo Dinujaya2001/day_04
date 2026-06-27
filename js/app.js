@@ -58,19 +58,63 @@
 
 // if else statment
 
-let x = 10;
-let y = 20;
+// let x = 10;
+// let y = 20;
 
-if(x >y ){
-    console.log("x grater than y");
+// if(x >y ){
+//     console.log("x grater than y");
     
-} else if (x < y){
-    console.log("x is less than y");
+// } else if (x < y){
+//     console.log("x is less than y");
     
-}else{
-    console.log("x is equal to y");
+// }else{
+//     console.log("x is equal to y");
     
+// }
+
+let day = 9;
+
+switch(day){
+    case 1:
+    console.log("Monday");
+    break;
+    case 2:
+    console.log("Tuesday");
+    break;
+    case 3:
+    console.log("Wendsday");
+    break;
+    case 4:
+    console.log("Thursday");
+    break;
+    default:
+        console.log("Invalid Day");
+        
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
