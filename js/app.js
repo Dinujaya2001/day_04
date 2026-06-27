@@ -11,18 +11,38 @@
 
 // alert("Successfully Rejistration!");
 
-let name = "saman";
-let age = 18;
-let isAfterAL = false;
-let customers = [];
-let customer ={};
-let salery = 7500.00;
+// let name = "saman";
+// let age = 18;
+// let isAfterAL = false;
+// let customers = [];
+// let customer ={};
+// let salery = 7500.00;
 
-console.log(typeof name);
-console.log(typeof age);
-console.log(typeof customers);
-console.log(typeof customer);
-console.log(typeof salery);
+// console.log(typeof name);
+// console.log(typeof age);
+// console.log(typeof customers);
+// console.log(typeof customer);
+// console.log(typeof salery);
+// -----------------------------------------------------------------
+
+// + | - | * | /
+
+
+
+
+
+
+// >== |<== | === | !==
+
+
+
+
+
+let x = 10;
+
+let y = "10";
+
+console.log(x===y);
 
 
 
